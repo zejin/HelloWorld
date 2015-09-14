@@ -10,6 +10,6 @@ Learn how to use GitHub
 
 https://guides.github.com/
 
-### Collaborate
+### Collaboration
 
 Create a new branch
